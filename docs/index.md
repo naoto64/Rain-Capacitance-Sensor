@@ -1,1 +1,14 @@
-#Capacitive-Rain-Detector
+# 静電容量式レインセンサの検出基板キット
+
+## 概要
+これは、静電容量式レインセンサ基板と検出回路をセットにした組み立てキットです。
+レインセンサは以下を使用しています。
+[静電容量式レインセンサ基板](https://naoto64.github.io/Capacitive-Rain-Sensor/)
+
+レインセンサに雨粒が落ちると静電容量が大きくなります。このキットではセンサの
+静電容量を監視して、降雨の有無を外部に信号を出力します。
+この回路はセンサに雨粒がついているかどうかで降雨の判断をしています。
+雨が上がった場合でも、雨粒が乾くまで降雨ありとして出力します。
+
+# 基板イメージ図
+[基板イメージ図](https://raw.githubusercontent.com/naoto64/Capacitive-Rain-Detector/main/rain-cap-detector.png)
