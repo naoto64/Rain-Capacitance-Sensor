@@ -11,5 +11,5 @@
 この回路はセンサに雨粒がついているかどうかで降雨の判断をしています。
 雨が上がった場合でも、雨粒が乾くまで降雨ありとして出力します。
 
-# 基板イメージ図
+## 基板イメージ図
 ![基板イメージ図](https://raw.githubusercontent.com/naoto64/Capacitive-Rain-Detector/main/rain-cap-detector.png)
