@@ -13,3 +13,6 @@
 
 ## 基板イメージ図
 ![基板イメージ図](https://raw.githubusercontent.com/naoto64/Capacitive-Rain-Detector/main/rain-cap-detector.png)
+
+## 基板回路図
+![基板回路図](https://raw.githubusercontent.com/naoto64/Capacitive-Rain-Detector/main/docs/rain-cap-detector-schematic.png)
