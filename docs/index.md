@@ -20,5 +20,8 @@
 ## 基板イメージ図
 ![基板イメージ図](https://raw.githubusercontent.com/naoto64/Capacitive-Rain-Detector/main/docs/rain-capacitance-sensor.jpg)
 
+## 基板寸法図
+![基板イメージ図](https://raw.githubusercontent.com/naoto64/Capacitive-Rain-Detector/main/docs/board-dimension-diagram.png)
+
 ## 基板回路図
 ![基板回路図](https://raw.githubusercontent.com/naoto64/Capacitive-Rain-Detector/main/docs/rain-capacitance-sensor-schematic.png)
