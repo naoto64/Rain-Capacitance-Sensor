@@ -18,7 +18,7 @@
 この基板は、アナログ出力とデジタル出力のシンプルな構成ですので、簡単にご使用いただけます。
 
 ## 基板イメージ図
-![基板イメージ図](https://raw.githubusercontent.com/naoto64/Capacitive-Rain-Detector/main/docs/rain-capacitance-sensor.png)
+![基板イメージ図](https://raw.githubusercontent.com/naoto64/Capacitive-Rain-Detector/main/docs/rain-capacitance-sensor.jpg)
 
 ## 基板回路図
 ![基板回路図](https://raw.githubusercontent.com/naoto64/Capacitive-Rain-Detector/main/docs/rain-capacitance-sensor-schematic.png)
