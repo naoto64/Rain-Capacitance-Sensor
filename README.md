@@ -1,4 +1,4 @@
-# Capacitive-Rain-Detector
+# Rain-Capacitance-Sensor
 This is the detection board for the capacitive rain sensor.
 
 ## Circuit board image
