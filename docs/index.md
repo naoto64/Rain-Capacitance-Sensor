@@ -17,7 +17,7 @@
 この基板は、アナログ出力とデジタル出力のシンプルな構成ですので、簡単にご使用いただけます。
 
 ## 使用方法
-![使用方法](https://raw.githubusercontent.com/naoto64/Capacitive-Rain-Detector/main/docs/usage.svg)
+![使用方法](https://raw.githubusercontent.com/naoto64/Capacitive-Rain-Detector/main/docs/usage.png)
 
 ## 基板イメージ図
 ![基板イメージ図](https://raw.githubusercontent.com/naoto64/Capacitive-Rain-Detector/main/docs/rain-capacitance-sensor.jpg)
