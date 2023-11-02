@@ -7,9 +7,36 @@
    width="640"
    height="511.99997"
    viewBox="0 0 640 511.99999"
+   sodipodi:docname="usage.svg"
+   inkscape:export-filename="usage.png"
+   inkscape:export-xdpi="614.40002"
+   inkscape:export-ydpi="614.40002"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview409"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.94375"
+     inkscape:cx="143.27974"
+     inkscape:cy="393.05466"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="false" />
   <defs
      id="defs6">
     <clipPath
@@ -622,11 +649,7 @@
         </g>
       </g>
       <path
-         d="m 148.88,501.72 -17.61,-86.59 2.94,-0.6 17.61,86.59 z m -20.91,-77.51 4.18,-12.3 8.65,9.7 c 0.55,0.61 0.5,1.56 -0.12,2.11 -0.62,0.55 -1.57,0.5 -2.12,-0.12 l -6.94,-7.77 2.54,-0.52 -3.35,9.87 c -0.27,0.78 -1.12,1.2 -1.9,0.94 -0.79,-0.27 -1.21,-1.12 -0.94,-1.91 z"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path32" />
-      <path
-         d="m 339.3,570.22 h -25.33 v -3 h 25.33 z m -17.09,5.05 -11.22,-6.55 11.22,-6.55 c 0.72,-0.41 1.64,-0.17 2.06,0.54 0.41,0.72 0.17,1.64 -0.54,2.06 l -9,5.25 v -2.6 l 9,5.25 c 0.71,0.42 0.95,1.34 0.54,2.06 -0.42,0.71 -1.34,0.95 -2.06,0.54 z"
+         d="m 339.3,582.22 h -25.33 v -3 h 25.33 z m -17.09,5.05 -11.22,-6.55 11.22,-6.55 c 0.72,-0.41 1.64,-0.17 2.06,0.54 0.41,0.72 0.17,1.64 -0.54,2.06 l -9,5.25 v -2.6 l 9,5.25 c 0.71,0.42 0.95,1.34 0.54,2.06 -0.42,0.71 -1.34,0.95 -2.06,0.54 z"
          style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path34" />
       <g
@@ -791,11 +814,11 @@
         </g>
       </g>
       <path
-         d="m 339.3,591.72 h -25.33 v -3 h 25.33 z m -17.09,5.05 -11.22,-6.55 11.22,-6.55 c 0.72,-0.41 1.64,-0.17 2.06,0.54 0.41,0.72 0.17,1.64 -0.54,2.06 l -9,5.25 v -2.6 l 9,5.25 c 0.71,0.42 0.95,1.34 0.54,2.06 -0.42,0.71 -1.34,0.95 -2.06,0.54 z"
+         d="m 339.3,602.22 h -25.33 v -3 h 25.33 z m -17.09,5.05 -11.22,-6.55 11.22,-6.55 c 0.72,-0.41 1.64,-0.17 2.06,0.54 0.41,0.72 0.17,1.64 -0.54,2.06 l -9,5.25 v -2.6 l 9,5.25 c 0.71,0.42 0.95,1.34 0.54,2.06 -0.42,0.71 -1.34,0.95 -2.06,0.54 z"
          style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path176" />
       <path
-         d="m 339.3,548.22 h -25.33 v -3 h 25.33 z m -17.09,5.05 -11.22,-6.55 11.22,-6.55 c 0.72,-0.41 1.64,-0.17 2.06,0.54 0.41,0.72 0.17,1.64 -0.54,2.06 l -9,5.25 v -2.6 l 9,5.25 c 0.71,0.42 0.95,1.34 0.54,2.06 -0.42,0.71 -1.34,0.95 -2.06,0.54 z"
+         d="m 339.3,560.22 h -25.33 v -3 h 25.33 z m -17.09,5.05 -11.22,-6.55 11.22,-6.55 c 0.72,-0.41 1.64,-0.17 2.06,0.54 0.41,0.72 0.17,1.64 -0.54,2.06 l -9,5.25 v -2.6 l 9,5.25 c 0.71,0.42 0.95,1.34 0.54,2.06 -0.42,0.71 -1.34,0.95 -2.06,0.54 z"
          style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path178" />
       <g
