@@ -16,6 +16,9 @@
 また、電極式のセンサは電極の電圧を読み取るだけでよいため制御が簡単ですが、静電容量式の場合は検出回路が必要になります。
 この基板は、アナログ出力とデジタル出力のシンプルな構成ですので、簡単にご使用いただけます。
 
+## 使用方法
+![使用方法](https://raw.githubusercontent.com/naoto64/Capacitive-Rain-Detector/main/docs/usage.svg)
+
 ## 基板イメージ図
 ![基板イメージ図](https://raw.githubusercontent.com/naoto64/Capacitive-Rain-Detector/main/docs/rain-capacitance-sensor.jpg)
 
